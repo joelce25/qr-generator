@@ -1,3 +1,4 @@
-QR generator
+QR code generator with files named after the page URL with python
 
-QR code generator with files named after the page URL
+
+
